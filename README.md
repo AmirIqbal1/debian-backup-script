@@ -1,4 +1,3 @@
-# debian-backup-script
 # Backup Script
 
 A simple Bash script to automate the backup of your important files and directories. The script compresses specified files into a timestamped archive and stores them in a designated backup directory.
